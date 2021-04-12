@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="900">
+<circle r="75" fill="black" cx="220" cy="220">
+</circle>
+<circle r="35" fill="black" cx="150" cy="150">
+</circle>
+<circle r="35" fill="black" cx="290" cy="150">
+</circle>
+<rect x="90" y="90" width="500" height="5" fill="purple">
+</rect>
+<text x="75" y="75" font-size ="50" fill="blue">Do you like Disney?🤪
+</text>
+<text x="100" y="350" font-size ="40" fill="red">YES! We ❤️ DISNEY!
+</text>
+</svg>
